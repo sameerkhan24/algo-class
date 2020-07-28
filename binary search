@@ -25,7 +25,6 @@ class Main{
 		// not present 
 		return -1; 
 	} 
-
 	public static void main(String args[]) 
 	{ 
 		Main ob = new Main(); 
